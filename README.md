@@ -53,3 +53,6 @@ weighted avg   0.79      0.84      0.78       732
 
 ## 🔗 Author
 Himanshi Gera
+
+[LinkedIn] (www.linkedin.com/in/himanshi-gera-b15558278)
+---
