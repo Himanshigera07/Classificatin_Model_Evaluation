@@ -1,10 +1,9 @@
 # 🧠 Classification Model Evaluation
 
-This project demonstrates a classification task using two machine learning models:
+This project demonstrates a classification task using machine learning model:
 - Logistic Regression
-- Random Forest
 
-We evaluate the models using:
+We evaluate the model using:
 - Confusion Matrix (visualized with heatmap)
 - ROC- AUC Curve
 
@@ -13,7 +12,7 @@ The dataset used contains labeled samples for binary classification.
 
 ## ✅ Workflow
 1. Data Preprocessing
-2. Model Training (Logistic Regression, Random Forest)
+2. Model Training (Logistic Regression)
 3. Performance Evaluation
 4. Visualization (Confusion Matrix Heatmap + ROC-AUC Curve)
 
